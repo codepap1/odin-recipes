@@ -1,3 +1,3 @@
 # odin-recipes
 
-this repository is for "The Odin Project" tutorial projects.
+My first basic project in "The odin project" 
